@@ -45,7 +45,7 @@
 ## ⬇️ 다운로드
 
 > **다운로드 링크**
-> 🔗 *<[https://www.dropbox.com/scl/fi/1tgbz6qkvfkftu5tzwno0/.exe?rlkey=u1ksrcd8h7dtnyub83gyt4pp1&st=r31h20cq&dl=0](https://www.dropbox.com/scl/fi/1tgbz6qkvfkftu5tzwno0/.exe?rlkey=u1ksrcd8h7dtnyub83gyt4pp1&st=06izku0h&dl=0)>*
+> 🔗 *<https://www.dropbox.com/scl/fi/4jhh8vnmroig3em35b9hb/.zip?rlkey=is3njx6n8hj2t5i4j8xgk84n5&st=xy4jn3ip&dl=0>*
 
 ---
 
