@@ -37,16 +37,10 @@
 
 ## ▶️ 실행 방법
 
-1.  `동물의 숲 키보드.zip` 다운로드 후 압축 해제
-2.  `동물의 숲 키보드.exe` 실행
-3. 🎉 끝! (설치 과정 없이 바로 사용 가능)
-
----
-
-## ⬇️ 다운로드
-
-> **다운로드 링크**
-> 🔗 *<https://www.dropbox.com/scl/fi/4jhh8vnmroig3em35b9hb/.zip?rlkey=is3njx6n8hj2t5i4j8xgk84n5&st=h7udck9m&dl=0>*
+1. 우측의 "Releases"에서 "AnimalCrossingKeyboard.zip"을 다운로드
+2.  "AnimalCrossingKeyboard.zip" 압축 해제
+3.  "동물의 숲 키보드.exe" 실행
+4. 🎉 끝! (설치 과정 없이 바로 사용 가능)
 
 ---
 
